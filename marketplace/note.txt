@@ -1,0 +1,16 @@
+addToko Done
+editToko -> address atau status Done
+getToko -> name atau gaada Done
+
+addProduct Done
+editProduct Done
+deleteProduct Done
+getProduct -> All, Like Done
+
+makeOrder
+makePayment
+makePickUp
+makeShip
+makeConfirm
+
+user di emoney (kita pake user ecoin aja) -> admin penampung emoney -> di emoney lain dari akun penampung emoney asal -> ke merchant

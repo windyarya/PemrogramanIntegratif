@@ -1,0 +1,28 @@
+{
+  "name": "wcoin",
+  "version": "1.0.0",
+  "description": "ecoin api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "login",
+    "jwt"
+  ],
+  "author": "kelompok-10",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
+  }
+}
